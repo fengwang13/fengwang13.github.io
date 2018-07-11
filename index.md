@@ -12,7 +12,7 @@ Dr. Feng Wang's biosketch
 
 ### Support or Contact
 
-Email: fengwang13@gdut.edu.cn; fengwang.nl@gmail.com 
+Email: fengwang13@gdut.edu.cn; fengwnag13@fudan.edu.cn; fengwang.nl@gmail.com 
 
 Affiliate: School of Information Engineering, Guangdong University of Technology, Guangzhou 510006, China
 
