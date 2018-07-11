@@ -7,7 +7,7 @@ Feng Wang, received the B.E. degree from Nanjing University of Posts and Telecom
 
 ### Journal Publications
 ```List
-[1] Feng Wang, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” Accepted by IEEE Transactions on Wireless Communications, 2018.
+[1] Feng Wang, Lingjie Duan, and Jianwei Niu, [Optimal pricing of user-initiated data-plan sharing in a roaming market](https://ieeexplore.ieee.org/document/8408725/), Accepted by IEEE Transactions on Wireless Communications, 2018. 
 
 [2]	Feng Wang, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” IEEE Transactions on Wireless Communications, vol. 17, no. 3, pp. 4798-4810, Mar. 2018.
 
@@ -17,7 +17,7 @@ Feng Wang, received the B.E. degree from Nanjing University of Posts and Telecom
 
 [5]	Feng Wang, Tao Peng, Yongwei Huang, and Xin Wang, “Robust transceiver optimization for power -splitting based downlink MISO SWIPT systems,” IEEE Signal Processing Letters, vol. 22, no. 9, pp. 1492-1496, Sep. 2015.
 
-Feng Wang, Yongwei Huang, Xin Wang, and Yu Zhu, “Robust beamforming designs for multiuser MISO downlink with per-antenna power constraints,” EURASIP Journal on Wireless Communications and Networking, vol. 2015, no. 204, pp. 1-16, Aug. 2015.
+[6] Feng Wang, Yongwei Huang, Xin Wang, and Yu Zhu, “Robust beamforming designs for multiuser MISO downlink with per-antenna power constraints,” EURASIP Journal on Wireless Communications and Networking, vol. 2015, no. 204, pp. 1-16, Aug. 2015.
 
 [7]	Feng Wang and Yu Zhu, “On the low complexity of S-SCH detection for 3GPP LTE downlinks,” Journal of Fudan University (Nature Science version), vol. 50, no. 4, pp. 492-500, Aug. 2011.
 ```
