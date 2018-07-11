@@ -32,6 +32,9 @@ Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 51
 1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless powered mobile edge computing systems,” in the chapter of *Wireless Information and Power Transfer: Theory and Practice*, Wiley, 2018.
 
 ### Journal Publications
+**IEEE Copyright Information:** Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
+
+
 1. **Feng Wang**, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” to appear in *IEEE Transactions on Wireless Communications*, 2018. 
 
 2. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 3, pp. 4798-4810, Mar. 2018.
