@@ -6,7 +6,6 @@ Feng Wang, received the B.E. degree from Nanjing University of Posts and Telecom
 
 
 ### Journal Publications
-```List
 [1] Feng Wang, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” Accepted by IEEE Transactions on Wireless Communications, 2018. (https://ieeexplore.ieee.org/document/8408725/)
 
 [2] Feng Wang, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” IEEE Transactions on Wireless Communications, vol. 17, no. 3, pp. 4798-4810, Mar. 2018.
@@ -20,7 +19,31 @@ Feng Wang, received the B.E. degree from Nanjing University of Posts and Telecom
 [6] Feng Wang, Yongwei Huang, Xin Wang, and Yu Zhu, “Robust beamforming designs for multiuser MISO downlink with per-antenna power constraints,” EURASIP Journal on Wireless Communications and Networking, vol. 2015, no. 204, pp. 1-16, Aug. 2015.
 
 [7] Feng Wang and Yu Zhu, “On the low complexity of S-SCH detection for 3GPP LTE downlinks,” Journal of Fudan University (Nature Science version), vol. 50, no. 4, pp. 492-500, Aug. 2011.
-```
+
+### Conference Papers
+[1]	Xiaowen Cao, Feng Wang, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation for mobile edge computing,” in Proc. WiOpt, Shanghai, China, May 2018, pp. 1-6.
+
+[2]	Feng Wang, Jie Xu, and Zhiguo Ding, “Optimized multiuser computation offloading with multi-antenna NOMA,” in Proc. IEEE GLOBECOM Workshop on Non-Orthogonal Multiple Access Techniques for 5G, Singapore, Dec. 2017, pp. 1-7.
+
+[3]	Feng Wang, Lingjie Duan, and Jianwei Niu, “Pricing for opportunistic data sharing via personal hotspot,” in Proc. IEEE GLOBECOM, Singapore, Dec. 2017, pp. 1-6.
+
+[4]	Feng Wang, “Computation rate maximization for wireless powered mobile edge computing,” in Proc. APCC, Perth, Australia, Dec. 2017, pp. 1-6.
+
+[5]	Feng Wang, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” in Proc. IEEE ICC, Paris, France, May 2017, pp. 1-6.
+
+[6]	Feng Wang, Chongbin Xu, Yongwei Huang, Xin Wang, and Xi-Qi. Gao, “LiST-BF design for downlink beamforming with arbitrary shaping constraints,” in Proc. IEEE Globecom, Washington D.C., USA, Dec. 2016.
+
+[7]	Tao Peng, Feng Wang, Yongwei Huang, and Xin Wang, “Robust transceiver optimization for MISO SWIPT interference channel: A decentralized approach,” in Proc. IEEE VTC-Spring, Nanjing, China, May 2016.
+
+[8]	Feng Wang, Xin Wang, and Yu Zhu, “Transmit beamforming for multiuser downlink with per-antenna power constraints,” in Proc. IEEE ICC, Sydney, Australia, Jun. 2014. 
+
+[9]	Feng Wang, Xin Wang, Zhaoxi Fang, and Rui Zhang, “Optimal beamforming design for two-way relaying with simultaneous energy harvesting,” in Proc. 2014 International Symposium on Communications, Control, and Signal Processing (ISCCSP): Special Session on Energy Aware Communications Systems, Athens, Greece, May 2014 (Invited Paper). 
+
+[10]	Feng Wang and Yu Zhu, “An efficient CFO estimation algorithm for the downlink of 3GPP-LTE,” in Proc. WCSP, Nanjing, China, Nov. 2011. 
+
+[11]	Feng Wang, Yu Zhu, and Zongxin Wang, “A low complexity scheme for S-SCH detection in 3GPP LTE downlink system,” in Proc. Global Mobile Congress, Shanghai, China, Oct. 2010.
+
+
 
 ```markdown
 Syntax highlighted code block
