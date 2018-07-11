@@ -2,13 +2,18 @@
 
 Dr. Feng Wang's biosketch
 
-**Feng Wang**, received the B.E. degree from Nanjing University of Posts and Telecommunications, China, in 2009, and the M.Sc. and Ph.D. degrees from Fudan University, China, in 2012 and 2016, respectively. From 2012 to 2013, he was a Research Fellow with the Department of Communication Technology, Sharp Laboratories of China. In 2017, he joined the Engineering Systems and Design Pillar, Singapore University of Technology and Design, as a Post-Doctoral Research Fellow. He is currently a Lecturer with the School of Information Engineering, Guangdong University of Technology, Guangzhou, China. 
+**Feng Wang**, received the B.E. degree from Nanjing University of Posts and Telecommunications, China, in 2009, and the M.Sc. and Ph.D. degrees from Fudan University, China, in 2012 and 2016, respectively. From 2012 to 2013, he was a Research Fellow with the Department of Communication Technology, Sharp Laboratories of China. In 2017, he joined the Engineering Systems and Design Pillar, Singapore University of Technology and Design, as a Post-Doctoral Research Fellow. He is currently an assistant professor with the School of Information Engineering, Guangdong University of Technology, Guangzhou, China. 
 
 ### Research Interests
 - Signal Processing for Wireless Communications
 - Wireless Power Transfer
 - Edge Computing and Learning
 - Convex Opitmization
+
+### Support or Contact
+
+Email: fengwang13@gdut.edu.cn; fengwang.nl@gmail.com 
+Affiliate: Scholl of Information Engineering, Guangdong University of Technology, Guangzhou 510006, China
 
 ### Book Chapter
 [1]	**Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless powered mobile edge computing systems,” in the chapter of *Wireless Information and Power Transfer: Theory and Practice*, Wiley, 2018.
@@ -70,31 +75,3 @@ Dr. Feng Wang's biosketch
 
 [9]	**Feng Wang** and Yu Zhu. S-SCH detection for 3GPP-LTEdownlinks, Chinese Patent. Appl. NO: 201010162469.7, PPNO: CN101867389B, 2013-07-31.
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fengwang13/fengwang13.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
