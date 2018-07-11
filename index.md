@@ -7,7 +7,7 @@ Feng Wang, received the B.E. degree from Nanjing University of Posts and Telecom
 
 ### Journal Publications
 ```List
-[1] Feng Wang, Lingjie Duan, and Jianwei Niu, [Optimal pricing of user-initiated data-plan sharing in a roaming market](https://ieeexplore.ieee.org/document/8408725/), Accepted by IEEE Transactions on Wireless Communications, 2018. 
+[1] Feng Wang, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” Accepted by IEEE Transactions on Wireless Communications, 2018. (https://ieeexplore.ieee.org/document/8408725/)
 
 [2] Feng Wang, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” IEEE Transactions on Wireless Communications, vol. 17, no. 3, pp. 4798-4810, Mar. 2018.
 
