@@ -51,7 +51,7 @@ Affiliate: School of Information Engineering, Guangdong University of Technology
 
 [8]	**Feng Wang**, Xin Wang, and Yu Zhu, “Transmit beamforming for multiuser downlink with per-antenna power constraints,” in *Proc. IEEE ICC*, Sydney, Australia, Jun. 2014. 
 
-[9]	**Feng Wang**, Xin Wang, Zhaoxi Fang, and Rui Zhang, “Optimal beamforming design for two-way relaying with simultaneous energy harvesting,” in *Proc. 2014 International Symposium on Communications, Control, and Signal Processing (ISCCSP)*, Athens, Greece, May 2014 (Invited Paper). 
+[9]	**Feng Wang**, Xin Wang, Zhaoxi Fang, and Rui Zhang, “Optimal beamforming design for two-way relaying with simultaneous energy harvesting,” in *Proc. 2014 International Symposium on Communications, Control, and Signal Processing*, Athens, Greece, May 2014, pp. 1--5. (Invited Paper). 
 
 [10]	**Feng Wang** and Yu Zhu, “An efficient CFO estimation algorithm for the downlink of 3GPP-LTE,” in *Proc. WCSP*, Nanjing, China, Nov. 2011. 
 
