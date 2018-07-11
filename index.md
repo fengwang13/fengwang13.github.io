@@ -7,7 +7,7 @@ Dr. Feng Wang's biosketch
 ### Support or Contact
 Email: fengwang13@gdut.edu.cn; fengwnag13@fudan.edu.cn; fengwang.nl@gmail.com 
 
-Office: Room 701, No.~1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 510006
+Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 510006
 
 ### Research Interests
 - Signal Processing for Wireless Communications
