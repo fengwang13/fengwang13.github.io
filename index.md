@@ -2,16 +2,13 @@
 
 Dr. Feng Wang's biosketch
 
-Feng Wang, received the B.E. degree from Nanjing University of Posts and Telecommunications, China, in 2009, and the M.Sc. and Ph.D. degrees from Fudan University, China, in 2012 and 2016, respectively. From 2012 to 2013, he was a Research Fellow with the Department of Communication Technology, Sharp Laboratories of China. In 2017, he joined the Engineering Systems and Design Pillar, Singapore University of Technology and Design, as a Post-Doctoral Research Fellow. He is currently a Lecturer with the School of Information Engineering, Guangdong University of Technology, Guangzhou, China. 
+**Feng Wang**, received the B.E. degree from Nanjing University of Posts and Telecommunications, China, in 2009, and the M.Sc. and Ph.D. degrees from Fudan University, China, in 2012 and 2016, respectively. From 2012 to 2013, he was a Research Fellow with the Department of Communication Technology, Sharp Laboratories of China. In 2017, he joined the Engineering Systems and Design Pillar, Singapore University of Technology and Design, as a Post-Doctoral Research Fellow. He is currently a Lecturer with the School of Information Engineering, Guangdong University of Technology, Guangzhou, China. 
 
 ### Research Interests
-```Mark
 - Signal Processing for Wireless Communications
 - Wireless Power Transfer
 - Edge Computing and Learning
 - Convex Opitmization
-```
-
 
 ### Book Chapter
 [1]	**Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless powered mobile edge computing systems,” in the chapter of *Wireless Information and Power Transfer: Theory and Practice*, Wiley, 2018.
@@ -67,7 +64,7 @@ Feng Wang, received the B.E. degree from Nanjing University of Posts and Telecom
 
 [6]	**Feng Wang**, Renmao Liu, and Ming Ding. System information broadcast mechanism for standalone new carrier type. Chinese Patent, Appl. NO: 201210580308.9, PPNO: CN103906139A, 2016-01-13. (PCT: US, EU)
 
-[7]	**Feng Wang**, Renmao. Liu, and Lei Huang. DL control information for narrowband UEs. Chinese Patent, Appl. NO: 201210358622.2, PPNO: CN103684675A, 2015-10-14.
+[7] **Feng Wang**, Renmao. Liu, and Lei Huang. DL control information for narrowband UEs. Chinese Patent, Appl. NO: 201210358622.2, PPNO: CN103684675A, 2015-10-14.
 
 [8]	**Feng Wang**, Yu Zhu, and Junbo Zhang. Initial channel frequency offset estimation for 3GPP-LTE downlinks. Chinese Patent, Appl. NO: 201110354857.X, PPNO: CN102413079B, 2014-09-03. 
 
