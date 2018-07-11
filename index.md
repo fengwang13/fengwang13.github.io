@@ -9,9 +9,6 @@ Email: fengwang13@gdut.edu.cn; fengwnag13@fudan.edu.cn; fengwang.nl@gmail.com
 
 Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 510006
 
-### Quotes
-"A good theory (and information theory is one of the best) allows for simple analysis of simplified models. It also provides structural principles that allow insights from these simple models to be applied to more complex and realistic models..." --- Robert G. Gallager
-
 ### Research Interests
 - Signal Processing for Wireless Communications
 - Wireless Power Transfer
@@ -27,6 +24,9 @@ Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 51
 - Analogy Circuits (2017 Fall, 2018 Fall) 
 - Digital Signal Processing (2018 Spring)
 - Signal Detection and Estimation (2018 Fall)
+
+### Quotes
+"A good theory (and information theory is one of the best) allows for simple analysis of simplified models. It also provides structural principles that allow insights from these simple models to be applied to more complex and realistic models..." --- Robert G. Gallager
 
 ### Book Chapter
 1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless powered mobile edge computing systems,” in the chapter of *Wireless Information and Power Transfer: Theory and Practice*, Wiley, 2018.
