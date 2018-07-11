@@ -14,7 +14,7 @@ Dr. Feng Wang's biosketch
 
 Email: fengwang13@gdut.edu.cn; fengwang.nl@gmail.com 
 
-Affiliate: Scholl of Information Engineering, Guangdong University of Technology, Guangzhou 510006, China
+Affiliate: School of Information Engineering, Guangdong University of Technology, Guangzhou 510006, China
 
 ### Book Chapter
 [1]	**Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless powered mobile edge computing systems,” in the chapter of *Wireless Information and Power Transfer: Theory and Practice*, Wiley, 2018.
