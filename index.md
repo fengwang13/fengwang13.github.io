@@ -44,44 +44,44 @@ Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 51
 7. **Feng Wang** and Yu Zhu, “On the low complexity of S-SCH detection for 3GPP LTE downlinks,” *Journal of Fudan University (Nature Science version)*, vol. 50, no. 4, pp. 492-500, Aug. 2011. (in Chinese)
 
 ### Conference Papers
-[1]	Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation for mobile edge computing,” in *Proc. WiOpt*, Shanghai, China, May 2018, pp. 1-6.
+1.	Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation for mobile edge computing,” in *Proc. WiOpt*, Shanghai, China, May 2018, pp. 1-6.
 
-[2]	**Feng Wang**, Jie Xu, and Zhiguo Ding, “Optimized multiuser computation offloading with multi-antenna NOMA,” in *Proc. IEEE GLOBECOM Workshop on Non-Orthogonal Multiple Access Techniques for 5G*, Singapore, Dec. 2017, pp. 1-7.
+2.	**Feng Wang**, Jie Xu, and Zhiguo Ding, “Optimized multiuser computation offloading with multi-antenna NOMA,” in *Proc. IEEE GLOBECOM Workshop on Non-Orthogonal Multiple Access Techniques for 5G*, Singapore, Dec. 2017, pp. 1-7.
 
-[3]	**Feng Wang**, Lingjie Duan, and Jianwei Niu, “Pricing for opportunistic data sharing via personal hotspot,” in *Proc. IEEE GLOBECOM, Singapore*, Dec. 2017, pp. 1-6.
+3.	**Feng Wang**, Lingjie Duan, and Jianwei Niu, “Pricing for opportunistic data sharing via personal hotspot,” in *Proc. IEEE GLOBECOM, Singapore*, Dec. 2017, pp. 1-6.
 
-[4]	**Feng Wang**, “Computation rate maximization for wireless powered mobile edge computing,” in *Proc. APCC*, Perth, Australia, Dec. 2017, pp. 1-6.
+4.	**Feng Wang**, “Computation rate maximization for wireless powered mobile edge computing,” in *Proc. APCC*, Perth, Australia, Dec. 2017, pp. 1-6.
 
-[5]	**Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” in *Proc. IEEE ICC*, Paris, France, May 2017, pp. 1-6.
+5.	**Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” in *Proc. IEEE ICC*, Paris, France, May 2017, pp. 1-6.
 
-[6]	**Feng Wang**, Chongbin Xu, Yongwei Huang, Xin Wang, and Xi-Qi. Gao, “LiST-BF design for downlink beamforming with arbitrary shaping constraints,” in *Proc. IEEE GLOBECOM*, Washington D.C., USA, Dec. 2016, pp. 1-6.
+6.	**Feng Wang**, Chongbin Xu, Yongwei Huang, Xin Wang, and Xi-Qi. Gao, “LiST-BF design for downlink beamforming with arbitrary shaping constraints,” in *Proc. IEEE GLOBECOM*, Washington D.C., USA, Dec. 2016, pp. 1-6.
 
-[7]	Tao Peng, **Feng Wang**, Yongwei Huang, and Xin Wang, “Robust transceiver optimization for MISO SWIPT interference channel: A decentralized approach,” in *Proc. IEEE VTC-Spring*, Nanjing, China, May 2016, pp. 1-5.
+7.	Tao Peng, **Feng Wang**, Yongwei Huang, and Xin Wang, “Robust transceiver optimization for MISO SWIPT interference channel: A decentralized approach,” in *Proc. IEEE VTC-Spring*, Nanjing, China, May 2016, pp. 1-5.
 
-[8]	**Feng Wang**, Xin Wang, and Yu Zhu, “Transmit beamforming for multiuser downlink with per-antenna power constraints,” in *Proc. IEEE ICC*, Sydney, Australia, Jun. 2014, pp. 1-6. 
+8.	**Feng Wang**, Xin Wang, and Yu Zhu, “Transmit beamforming for multiuser downlink with per-antenna power constraints,” in *Proc. IEEE ICC*, Sydney, Australia, Jun. 2014, pp. 1-6. 
 
-[9]	**Feng Wang**, Xin Wang, Zhaoxi Fang, and Rui Zhang, “Optimal beamforming design for two-way relaying with simultaneous energy harvesting,” in *Proc. 2014 International Symposium on Communications, Control, and Signal Processing*, Athens, Greece, May 2014, pp. 1-5. (Invited Paper). 
+9.	**Feng Wang**, Xin Wang, Zhaoxi Fang, and Rui Zhang, “Optimal beamforming design for two-way relaying with simultaneous energy harvesting,” in *Proc. 2014 International Symposium on Communications, Control, and Signal Processing*, Athens, Greece, May 2014, pp. 1-5. (Invited Paper). 
 
-[10]	**Feng Wang** and Yu Zhu, “An efficient CFO estimation algorithm for the downlink of 3GPP-LTE,” in *Proc. WCSP*, Nanjing, China, Nov. 2011, pp. 1-6. 
+10.	**Feng Wang** and Yu Zhu, “An efficient CFO estimation algorithm for the downlink of 3GPP-LTE,” in *Proc. WCSP*, Nanjing, China, Nov. 2011, pp. 1-6. 
 
-[11]	**Feng Wang**, Yu Zhu, and Zongxin Wang, “A low complexity scheme for S-SCH detection in 3GPP LTE downlink system,” in *Proc. Global Mobile Congress*, Shanghai, China, Oct. 2010, pp. 1-6.
+11.	**Feng Wang**, Yu Zhu, and Zongxin Wang, “A low complexity scheme for S-SCH detection in 3GPP LTE downlink system,” in *Proc. Global Mobile Congress*, Shanghai, China, Oct. 2010, pp. 1-6.
 
 ### Patents
-[1]	**Feng Wang** and Renmao Liu. PDCCH repetition for MTC UEs in enhanced coverage mode. Chinese Patent, Appl. NO: 201410037511.0, PPNO: CN10481140A, 2015-07-29.
+1.	**Feng Wang** and Renmao Liu. PDCCH repetition for MTC UEs in enhanced coverage mode. Chinese Patent, Appl. NO: 201410037511.0, PPNO: CN10481140A, 2015-07-29.
 
-[2]	**Feng Wang** and Renmao Liu. Configuration signaling for MTC physical channels in repetition case. Chinese Patent, Appl. NO: 201410012249.4, PPNO: CN104780549A, 2015-07-15.
+2.	**Feng Wang** and Renmao Liu. Configuration signaling for MTC physical channels in repetition case. Chinese Patent, Appl. NO: 201410012249.4, PPNO: CN104780549A, 2015-07-15.
 
-[3]	**Feng Wang** and Renmao Liu. Downlink design for low-cost and enhanced coverage MTC UE’s. Chinese Patent, Appl. NO: 201310339122.9, PPNO: CN104348580A, 2016-08-17. (PCT:US)
+3.	**Feng Wang** and Renmao Liu. Downlink design for low-cost and enhanced coverage MTC UE’s. Chinese Patent, Appl. NO: 201310339122.9, PPNO: CN104348580A, 2016-08-17. (PCT:US)
 
-[4]	**Feng Wang** and Renmao Liu. PRACH design for low-cost MTC UE’s based on LTE. Chinese Patent, Appl. NO: 201310261358.5, PPNO: CN104254135A, 2016-07-20. (PCT: US)
+4.	**Feng Wang** and Renmao Liu. PRACH design for low-cost MTC UE’s based on LTE. Chinese Patent, Appl. NO: 201310261358.5, PPNO: CN104254135A, 2016-07-20. (PCT: US)
 
-[5]	**Feng Wang** and Renmao Liu. New PHICH design for a standalone new carrier type. Chinese Patent, Appl. NO: 201310067085.0, PPNO: CN104038324A, 2016-03-30.
+5.	**Feng Wang** and Renmao Liu. New PHICH design for a standalone new carrier type. Chinese Patent, Appl. NO: 201310067085.0, PPNO: CN104038324A, 2016-03-30.
 
-[6]	**Feng Wang**, Renmao Liu, and Ming Ding. System information broadcast mechanism for standalone new carrier type. Chinese Patent, Appl. NO: 201210580308.9, PPNO: CN103906139A, 2016-01-13. (PCT: US, EU)
+6.	**Feng Wang**, Renmao Liu, and Ming Ding. System information broadcast mechanism for standalone new carrier type. Chinese Patent, Appl. NO: 201210580308.9, PPNO: CN103906139A, 2016-01-13. (PCT: US, EU)
 
-[7] **Feng Wang**, Renmao. Liu, and Lei Huang. DL control information for narrowband UEs. Chinese Patent, Appl. NO: 201210358622.2, PPNO: CN103684675A, 2015-10-14.
+7. **Feng Wang**, Renmao. Liu, and Lei Huang. DL control information for narrowband UEs. Chinese Patent, Appl. NO: 201210358622.2, PPNO: CN103684675A, 2015-10-14.
 
-[8]	**Feng Wang**, Yu Zhu, and Junbo Zhang. Initial channel frequency offset estimation for 3GPP-LTE downlinks. Chinese Patent, Appl. NO: 201110354857.X, PPNO: CN102413079B, 2014-09-03. 
+8.	**Feng Wang**, Yu Zhu, and Junbo Zhang. Initial channel frequency offset estimation for 3GPP-LTE downlinks. Chinese Patent, Appl. NO: 201110354857.X, PPNO: CN102413079B, 2014-09-03. 
 
-[9]	**Feng Wang** and Yu Zhu. S-SCH detection for 3GPP-LTEdownlinks, Chinese Patent. Appl. NO: 201010162469.7, PPNO: CN101867389B, 2013-07-31.
+9.	**Feng Wang** and Yu Zhu. S-SCH detection for 3GPP-LTEdownlinks, Chinese Patent. Appl. NO: 201010162469.7, PPNO: CN101867389B, 2013-07-31.
 
