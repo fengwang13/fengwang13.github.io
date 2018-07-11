@@ -5,8 +5,11 @@ Feng Wang's biosketch
 Feng Wang, received the B.E. degree from Nanjing University of Posts and Telecommunications, China, in 2009, and the M.Sc. and Ph.D. degrees from Fudan University, China, in 2012 and 2016, respectively. From 2012 to 2013, he was a Research Fellow with the Department of Communication Technology, Sharp Laboratories of China. In 2017, he joined the Engineering Systems and Design Pillar, Singapore University of Technology and Design, as a Post-Doctoral Research Fellow. He is currently a Lecturer with the School of Information Engineering, Guangdong University of Technology, Guangzhou, China. His research interests include signal processing for communications, wireless power transfer, edge computing and learning.
 
 
+### Book Chapter
+[1]	**Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless powered mobile edge computing systems,” in the chapter of Wireless Information and Power Transfer: Theory and Practice, Wiley, 2018.
+
 ### Journal Publications
-[1] Feng Wang, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” Accepted by IEEE Transactions on Wireless Communications, 2018. (https://ieeexplore.ieee.org/document/8408725/)
+[1] *Feng Wang*, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” Accepted by IEEE Transactions on Wireless Communications, 2018. (https://ieeexplore.ieee.org/document/8408725/)
 
 [2] Feng Wang, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” IEEE Transactions on Wireless Communications, vol. 17, no. 3, pp. 4798-4810, Mar. 2018.
 
