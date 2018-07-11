@@ -17,9 +17,13 @@ Office: Room 701, No.1 Engineering Bullding
 - Convex Opitmization
 
 ### Courses
-- Graduate: 1. Signal Processing for Communications (2016 Fall, 2017 Fall) 2. Modern Signal Processing Theory and Technology (2018 Spring)
+- Graduate: 
+1. Signal Processing for Communications (2016 Fall, 2017 Fall) 
+2. Modern Signal Processing Theory and Technology (2018 Spring)
 
-- Undergraduate: 1. Analogy Circuits (2017 Fall) 2. Digital Signal Processing (2018 Spring)
+- Undergraduate: 
+1. Digital Signal Processing (2018 Spring)
+2. Analogy Circuits (2017 Fall) 
 
 ### Book Chapter
 [1]	**Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless powered mobile edge computing systems,” in the chapter of *Wireless Information and Power Transfer: Theory and Practice*, Wiley, 2018.
