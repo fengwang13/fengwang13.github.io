@@ -9,6 +9,9 @@ Email: fengwang13@gdut.edu.cn; fengwnag13@fudan.edu.cn; fengwang.nl@gmail.com
 
 Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 510006
 
+### Quotes
+"A good theory (and information theory is one of the best) allows for simple analysis of simplified models. It also provides structural principles that allow insights from these simple models to be applied to more complex and realistic models..." --- Robert G. Gallager
+
 ### Research Interests
 - Signal Processing for Wireless Communications
 - Wireless Power Transfer
