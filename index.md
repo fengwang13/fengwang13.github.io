@@ -45,17 +45,17 @@ Affiliate: School of Information Engineering, Guangdong University of Technology
 
 [5]	**Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” in *Proc. IEEE ICC*, Paris, France, May 2017, pp. 1-6.
 
-[6]	**Feng Wang**, Chongbin Xu, Yongwei Huang, Xin Wang, and Xi-Qi. Gao, “LiST-BF design for downlink beamforming with arbitrary shaping constraints,” in *Proc. IEEE GLOBECOM*, Washington D.C., USA, Dec. 2016.
+[6]	**Feng Wang**, Chongbin Xu, Yongwei Huang, Xin Wang, and Xi-Qi. Gao, “LiST-BF design for downlink beamforming with arbitrary shaping constraints,” in *Proc. IEEE GLOBECOM*, Washington D.C., USA, Dec. 2016, pp. 1-6.
 
-[7]	Tao Peng, **Feng Wang**, Yongwei Huang, and Xin Wang, “Robust transceiver optimization for MISO SWIPT interference channel: A decentralized approach,” in *Proc. IEEE VTC-Spring*, Nanjing, China, May 2016.
+[7]	Tao Peng, **Feng Wang**, Yongwei Huang, and Xin Wang, “Robust transceiver optimization for MISO SWIPT interference channel: A decentralized approach,” in *Proc. IEEE VTC-Spring*, Nanjing, China, May 2016, pp. 1-5.
 
-[8]	**Feng Wang**, Xin Wang, and Yu Zhu, “Transmit beamforming for multiuser downlink with per-antenna power constraints,” in *Proc. IEEE ICC*, Sydney, Australia, Jun. 2014. 
+[8]	**Feng Wang**, Xin Wang, and Yu Zhu, “Transmit beamforming for multiuser downlink with per-antenna power constraints,” in *Proc. IEEE ICC*, Sydney, Australia, Jun. 2014, pp. 1-6. 
 
-[9]	**Feng Wang**, Xin Wang, Zhaoxi Fang, and Rui Zhang, “Optimal beamforming design for two-way relaying with simultaneous energy harvesting,” in *Proc. 2014 International Symposium on Communications, Control, and Signal Processing*, Athens, Greece, May 2014, pp. 1--5. (Invited Paper). 
+[9]	**Feng Wang**, Xin Wang, Zhaoxi Fang, and Rui Zhang, “Optimal beamforming design for two-way relaying with simultaneous energy harvesting,” in *Proc. 2014 International Symposium on Communications, Control, and Signal Processing*, Athens, Greece, May 2014, pp. 1-5. (Invited Paper). 
 
-[10]	**Feng Wang** and Yu Zhu, “An efficient CFO estimation algorithm for the downlink of 3GPP-LTE,” in *Proc. WCSP*, Nanjing, China, Nov. 2011. 
+[10]	**Feng Wang** and Yu Zhu, “An efficient CFO estimation algorithm for the downlink of 3GPP-LTE,” in *Proc. WCSP*, Nanjing, China, Nov. 2011, pp. 1-6. 
 
-[11]	**Feng Wang**, Yu Zhu, and Zongxin Wang, “A low complexity scheme for S-SCH detection in 3GPP LTE downlink system,” in *Proc. Global Mobile Congress*, Shanghai, China, Oct. 2010.
+[11]	**Feng Wang**, Yu Zhu, and Zongxin Wang, “A low complexity scheme for S-SCH detection in 3GPP LTE downlink system,” in *Proc. Global Mobile Congress*, Shanghai, China, Oct. 2010, pp. 1-6.
 
 ### Patents
 [1]	**Feng Wang** and Renmao Liu. PDCCH repetition for MTC UEs in enhanced coverage mode. Chinese Patent, Appl. NO: 201410037511.0, PPNO: CN10481140A, 2015-07-29.
