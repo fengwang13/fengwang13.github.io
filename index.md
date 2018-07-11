@@ -26,22 +26,22 @@ Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 51
 - Signal Detection and Estimation (2018 Fall)
 
 ### Book Chapter
-[1]	**Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless powered mobile edge computing systems,” in the chapter of *Wireless Information and Power Transfer: Theory and Practice*, Wiley, 2018.
+1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless powered mobile edge computing systems,” in the chapter of *Wireless Information and Power Transfer: Theory and Practice*, Wiley, 2018.
 
 ### Journal Publications
-[1] **Feng Wang**, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” to appear in *IEEE Transactions on Wireless Communications*, 2018. 
+1. **Feng Wang**, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” to appear in *IEEE Transactions on Wireless Communications*, 2018. 
 
-[2] **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 3, pp. 4798-4810, Mar. 2018.
+2. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 3, pp. 4798-4810, Mar. 2018.
 
-[3] **Feng Wang**, Tao Peng, and Yongwei Huang, “Decentralized robust transceiver designs for MISO SWIPT interference channel,” *IEEE Access*, vol. 6, pp. 4537-4549, Feb. 2018
+3. **Feng Wang**, Tao Peng, and Yongwei Huang, “Decentralized robust transceiver designs for MISO SWIPT interference channel,” *IEEE Access*, vol. 6, pp. 4537-4549, Feb. 2018
 
-[4] **Feng Wang**, Chongbin Xu, Yongwei Huang, Xin Wang, and Xiqi Gao, “REEL-BF design: Achieving the SDP bound for downlink beamforming with arbitrary shaping constraints,” *IEEE Transactions on Signal Processing*, vol. 65, no. 10, pp. 2672-2685, May 2017.
+4. **Feng Wang**, Chongbin Xu, Yongwei Huang, Xin Wang, and Xiqi Gao, “REEL-BF design: Achieving the SDP bound for downlink beamforming with arbitrary shaping constraints,” *IEEE Transactions on Signal Processing*, vol. 65, no. 10, pp. 2672-2685, May 2017.
 
-[5] **Feng Wang**, Tao Peng, Yongwei Huang, and Xin Wang, “Robust transceiver optimization for power -splitting based downlink MISO SWIPT systems,” *IEEE Signal Processing Letters*, vol. 22, no. 9, pp. 1492-1496, Sep. 2015.
+5. **Feng Wang**, Tao Peng, Yongwei Huang, and Xin Wang, “Robust transceiver optimization for power -splitting based downlink MISO SWIPT systems,” *IEEE Signal Processing Letters*, vol. 22, no. 9, pp. 1492-1496, Sep. 2015.
 
-[6] **Feng Wang**, Yongwei Huang, Xin Wang, and Yu Zhu, “Robust beamforming designs for multiuser MISO downlink with per-antenna power constraints,” *EURASIP Journal on Wireless Communications and Networking*, vol. 2015, no. 204, pp. 1-16, Aug. 2015.
+6. **Feng Wang**, Yongwei Huang, Xin Wang, and Yu Zhu, “Robust beamforming designs for multiuser MISO downlink with per-antenna power constraints,” *EURASIP Journal on Wireless Communications and Networking*, vol. 2015, no. 204, pp. 1-16, Aug. 2015.
 
-[7] **Feng Wang** and Yu Zhu, “On the low complexity of S-SCH detection for 3GPP LTE downlinks,” *Journal of Fudan University (Nature Science version)*, vol. 50, no. 4, pp. 492-500, Aug. 2011. (in Chinese)
+7. **Feng Wang** and Yu Zhu, “On the low complexity of S-SCH detection for 3GPP LTE downlinks,” *Journal of Fudan University (Nature Science version)*, vol. 50, no. 4, pp. 492-500, Aug. 2011. (in Chinese)
 
 ### Conference Papers
 [1]	Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation for mobile edge computing,” in *Proc. WiOpt*, Shanghai, China, May 2018, pp. 1-6.
