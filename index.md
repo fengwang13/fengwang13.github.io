@@ -55,23 +55,23 @@ Feng Wang, received the B.E. degree from Nanjing University of Posts and Telecom
 [11]	**Feng Wang**, Yu Zhu, and Zongxin Wang, “A low complexity scheme for S-SCH detection in 3GPP LTE downlink system,” in *Proc. Global Mobile Congress*, Shanghai, China, Oct. 2010.
 
 ### Patents
-[1]	**F. Wang** and R. Liu. PDCCH repetition for MTC UEs in enhanced coverage mode. Chinese Patent, Appl. NO: 201410037511.0, PPNO: CN10481140A, 2015-07-29.
+[1]	**Feng Wang** and Renmao Liu. PDCCH repetition for MTC UEs in enhanced coverage mode. Chinese Patent, Appl. NO: 201410037511.0, PPNO: CN10481140A, 2015-07-29.
 
-[2]	**F. Wang** and R. Liu. Configuration signaling for MTC physical channels in repetition case. Chinese Patent, Appl. NO: 201410012249.4, PPNO: CN104780549A, 2015-07-15.
+[2]	**Feng Wang** and Renmao Liu. Configuration signaling for MTC physical channels in repetition case. Chinese Patent, Appl. NO: 201410012249.4, PPNO: CN104780549A, 2015-07-15.
 
-[3]	**F. Wang** and R. Liu. Downlink design for low-cost and enhanced coverage MTC UE’s. Chinese Patent, Appl. NO: 201310339122.9, PPNO: CN104348580A, 2016-08-17. (PCT:US)
+[3]	**Feng Wang** and Renmao Liu. Downlink design for low-cost and enhanced coverage MTC UE’s. Chinese Patent, Appl. NO: 201310339122.9, PPNO: CN104348580A, 2016-08-17. (PCT:US)
 
-[4]	**F. Wang** and R. Liu. PRACH design for low-cost MTC UE’s based on LTE. Chinese Patent, Appl. NO: 201310261358.5, PPNO: CN104254135A, 2016-07-20. (PCT: US)
+[4]	**Feng Wang** and Renmao Liu. PRACH design for low-cost MTC UE’s based on LTE. Chinese Patent, Appl. NO: 201310261358.5, PPNO: CN104254135A, 2016-07-20. (PCT: US)
 
-[5]	**F. Wang** and R. Liu. New PHICH design for a standalone new carrier type. Chinese Patent, Appl. NO: 201310067085.0, PPNO: CN104038324A, 2016-03-30.
+[5]	**Feng Wang** and Renmao Liu. New PHICH design for a standalone new carrier type. Chinese Patent, Appl. NO: 201310067085.0, PPNO: CN104038324A, 2016-03-30.
 
-[6]	**F. Wang**, R. Liu, and M. Ding. System information broadcast mechanism for standalone new carrier type. Chinese Patent, Appl. NO: 201210580308.9, PPNO: CN103906139A, 2016-01-13. (PCT: US, EU)
+[6]	**Feng Wang**, Renmao Liu, and Ming Ding. System information broadcast mechanism for standalone new carrier type. Chinese Patent, Appl. NO: 201210580308.9, PPNO: CN103906139A, 2016-01-13. (PCT: US, EU)
 
-[7]	**F. Wang**, R. Liu, and L. Huang. DL control information for narrowband UEs. Chinese Patent, Appl. NO: 201210358622.2, PPNO: CN103684675A, 2015-10-14.
+[7]	**Feng Wang**, Renmao. Liu, and Lei Huang. DL control information for narrowband UEs. Chinese Patent, Appl. NO: 201210358622.2, PPNO: CN103684675A, 2015-10-14.
 
-[8]	**F. Wang**, Y. Zhu, and J. Zhang. Initial channel frequency offset estimation for 3GPP-LTE downlinks. Chinese Patent, Appl. NO: 201110354857.X, PPNO: CN102413079B, 2014-09-03. 
+[8]	**Feng Wang**, Yu Zhu, and Junbo Zhang. Initial channel frequency offset estimation for 3GPP-LTE downlinks. Chinese Patent, Appl. NO: 201110354857.X, PPNO: CN102413079B, 2014-09-03. 
 
-[9]	**F. Wang** and Y. Zhu. S-SCH detection for 3GPP-LTEdownlinks, Chinese Patent. Appl. NO: 201010162469.7, PPNO: CN101867389B, 2013-07-31.
+[9]	**Feng Wang** and Yu Zhu. S-SCH detection for 3GPP-LTEdownlinks, Chinese Patent. Appl. NO: 201010162469.7, PPNO: CN101867389B, 2013-07-31.
 
 
 ```markdown
