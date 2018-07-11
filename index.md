@@ -15,13 +15,13 @@ Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 51
 - Convex Opitmization
 
 ### Courses
-- Graduate Class: 
+- Graduate Class
 ```markdown
 Signal Processing for Communications (2016 Fall, 2017 Fall) 
 
 Modern Signal Processing Theory and Technology (2018 Spring)
 ```
-- Undergraduate Class: 
+- Undergraduate Class
 ```markdown
 Analogy Circuits (2017 Fall, 2018 Fall) 
 
