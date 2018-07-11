@@ -5,11 +5,8 @@ Dr. Feng Wang's biosketch
 **Feng Wang**, received the B.E. degree from Nanjing University of Posts and Telecommunications, China, in 2009, and the M.Sc. and Ph.D. degrees from Fudan University, China, in 2012 and 2016, respectively. From 2012 to 2013, he was a Research Fellow with the Department of Communication Technology, Sharp Laboratories of China. In 2017, he joined the Engineering Systems and Design Pillar, Singapore University of Technology and Design, as a Post-Doctoral Research Fellow. He is currently an assistant professor with the School of Information Engineering, Guangdong University of Technology, Guangzhou, China. 
 
 ### Support or Contact
-```markdown
 Email: fengwang13@gdut.edu.cn; fengwnag13@fudan.edu.cn; fengwang.nl@gmail.com 
-
 Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 510006
-```
 
 ### Research Interests
 - Signal Processing for Wireless Communications
@@ -18,15 +15,14 @@ Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 51
 - Convex Opitmization
 
 ### Courses
-```markdown
 - Graduate Class: 
-
+```markdown
 Signal Processing for Communications (2016 Fall, 2017 Fall) 
 
 Modern Signal Processing Theory and Technology (2018 Spring)
-
+```
 - Undergraduate Class: 
-
+```markdown
 Analogy Circuits (2017 Fall, 2018 Fall) 
 
 Digital Signal Processing (2018 Spring)
