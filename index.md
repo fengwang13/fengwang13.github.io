@@ -11,7 +11,7 @@ Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 51
 
 ### Research Interests
 - Signal Processing for Wireless Communications
-- Wireless Power Transfer
+- Energy Harvesting Wireless Communications
 - Edge Computing and Learning
 - Convex Opitmization
 
