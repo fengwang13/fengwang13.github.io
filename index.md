@@ -2,14 +2,14 @@
 
 **Feng Wang**, Assistant Professor, School of Information Engineering, Guangdong University of Technology
 
-Email: fengwang13@gdut.edu.cn; fengwang13@fudan.edu.cn; fengwang.nl@gmail.com 
+- Email: fengwang13@gdut.edu.cn; fengwang13@fudan.edu.cn; fengwang.nl@gmail.com 
 
-Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 510006, China
+- Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 510006, China
 
 ### Eduaction ####
 - Ph.D, Fudan University, China (Jun. 2016)
 - Master of Engineering in Communication and Information System, Fudan University, China (Jun. 2012)
-- Bachelor of Engineering in Automation, Nanjing University of Posts and Technology, China (Jun. 2009)
+- Bachelor of Engineering in Automation, Nanjing University of Posts and Telecommunications, China (Jun. 2009)
 
 ### Professional Experience ###
 - Assistant Professor, Guangdong University of Technology, Guangzhou (Jun. 2016 - present)
