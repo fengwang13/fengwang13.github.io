@@ -1,13 +1,21 @@
 ## Welcome to Dr. Feng Wang's Homepage
 
-Dr. Feng Wang's biosketch
+**Feng Wang**, Assistant Professor, Guangdong University of Technology
 
-**Feng Wang**, received the B.E. degree from Nanjing University of Posts and Telecommunications, China, in 2009, and the M.Sc. and Ph.D. degrees from Fudan University, China, in 2012 and 2016, respectively. From 2012 to 2013, he was a Research Fellow with the Department of Communication Technology, Sharp Laboratories of China. In 2017, he joined the Engineering Systems and Design Pillar, Singapore University of Technology and Design, as a Post-Doctoral Research Fellow. He is currently an assistant professor with the School of Information Engineering, Guangdong University of Technology, Guangzhou, China. 
-
-### Support or Contact
 Email: fengwang13@gdut.edu.cn; fengwang13@fudan.edu.cn; fengwang.nl@gmail.com 
 
-Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 510006
+Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 510006, China
+
+### Eduaction ####
+- Ph.D, Fudan University, China (Jun. 2016)
+- Master of Engineering in Communication and Information System, Fudan University, China (Jun. 2012)
+- Bachelor of Engineering in Automation, Nanjing University of Posts and Technology, China (Jun. 2009)
+
+### Professional Experience ###
+- Assistant Professor, Guangdong University of Technology, Guangzhou (Jun. 2016 - present)
+- Post-Doctoral Research Fellow, Singapore University of Technology and Design (Jan. 2017 - Aug. 2017)
+- Rearch Fellow, SHAPR Laboroty of China, Shanghai (Jul. 2012 - Aug. 2013)
+**Feng Wang**, received the B.E. degree from Nanjing University of Posts and Telecommunications, China, in 2009, and the M.Sc. and Ph.D. degrees from Fudan University, China, in 2012 and 2016, respectively. From 2012 to 2013, he was a Research Fellow with the Department of Communication Technology, Sharp Laboratories of China. In 2017, he joined the Engineering Systems and Design Pillar, Singapore University of Technology and Design, as a Post-Doctoral Research Fellow. He is currently an assistant professor with the School of Information Engineering, Guangdong University of Technology, Guangzhou, China. 
 
 ### Research Interests
 - Signal Processing for Wireless Communications
@@ -15,7 +23,7 @@ Office: Room 701, No. 1 Engineering Bullding, No. 100 Road Waihuan, Guangzhou 51
 - Edge Computing and Learning
 - Convex Opitmization
 
-### Courses
+### Teaching Courses
 1. Graduate Class
 - Signal Processing for Communications (2016 Fall, 2017 Fall) 
 - Modern Signal Processing Theory and Technology (2018 Spring)
