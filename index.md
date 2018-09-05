@@ -57,7 +57,7 @@ J2. **Feng Wang**, Yongwei Huang, Xin Wang, and Yu Zhu, “Robust beamforming de
 J1. **Feng Wang** and Yu Zhu, “On the low complexity of S-SCH detection for 3GPP LTE downlinks,” *Journal of Fudan University (Nature Science version)*, vol. 50, no. 4, pp. 492-500, Aug. 2011. (in Chinese)
 
 ### Conference Papers
-C12.	Dixiao Wu, **Feng Wang**, Xiaowen Cao, and Jie Xu, "Wireless Powered User Cooperative Computation in Mobile Edge Computing Systems," in *Proc. IEEE GLOBECOM Workshops-Wireless Energy Harvesting Communication Networks*, Abu Dhabi, United Arab Emirates, Dec. 2018, pp. 1-7.
+C12.	Dixiao Wu, **Feng Wang**, Xiaowen Cao, and Jie Xu, "Wireless Powered User Cooperative Computation in Mobile Edge Computing Systems," in *Proc. IEEE GLOBECOM Workshop on Wireless Energy Harvesting Communication Networks*, Abu Dhabi, United Arab Emirates, Dec. 2018, pp. 1-7.
 
 C11. Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation for mobile edge computing,” in *Proc. WiOpt*, Shanghai, China, May 2018, pp. 1-6.
 
