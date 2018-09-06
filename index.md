@@ -36,7 +36,7 @@
 "A good theory (and information theory is one of the best) allows for simple analysis of simplified models. It also provides structural principles that allow insights from these simple models to be applied to more complex and realistic models..."     --- Robert G. Gallager
 
 ### Book Chapter
-1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless powered mobile edge computing systems,” in the chapter of *Wireless Information and Power Transfer: Theory and Practice*, Wiley, 2018.
+1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobile Edge Computing Systems,” in Chapter 14 of *Wireless Information and Power Transfer: Theory and Practice*, Wiley-IEEE Press, Dec. 2018. (ISBN: 978-1-119-47686-3)
 
 ### Journal Publications
 **IEEE Copyright Information:** Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
