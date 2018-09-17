@@ -24,13 +24,13 @@
 
 ### Teaching Courses
 1. Graduate Class
-- Signal Processing for Communications (2016 Fall, 2017 Fall, 2018 Fall) 
-- Modern Signal Processing Theory and Technology (2018 Spring)
+- Signal Processing for Communications (2016Fall, 2017Fall, 2018Fall) 
+- Modern Signal Processing Theory and Technology (2018Spring)
 
 2. Undergraduate Class
-- Analogy Circuits (2017 Fall, 2018 Fall) 
-- Digital Signal Processing (2018 Spring)
-- Signal Detection and Estimation (2018 Fall)
+- Analogy Circuits (2017Fall, 2018Fall) 
+- Digital Signal Processing (2018Spring, 2018Fall)
+- Signal Detection and Estimation (2018Fall)
 
 ### Quotes
 "A good theory (and information theory is one of the best) allows for simple analysis of simplified models. It also provides structural principles that allow insights from these simple models to be applied to more complex and realistic models..."     --- Robert G. Gallager
