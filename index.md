@@ -13,7 +13,7 @@
 
 ### Professional Experience ###
 - Assistant Professor, Guangdong University of Technology, Guangzhou (Jun. 2016 - present)
-- Post-Doctoral Research Fellow, Singapore University of Technology and Design (Jan. 2017 - Aug. 2017)
+- Post-Doctoral Research Fellow, Singapore University of Technology and Design (Jan. 2017 - Sep. 2017)
 - Rearch Fellow, SHAPR Laboroty of China, Shanghai (Jul. 2012 - Aug. 2013)
 
 ### Research Interests
@@ -41,6 +41,8 @@
 ### Journal Publications
 **IEEE Copyright Information:** Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
 
+J8. Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation
+for energy-efficient mobile edge computing,” To appear in *IEEE Internet of Things Journal*, Oct. 2018. 
 
 J7. **Feng Wang**, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 9, pp. 5929--5944, Sep. 2018. 
 
