@@ -23,11 +23,11 @@
 - Convex Opitmization
 
 ### Teaching Courses
-1. Graduate Class
+GC. Graduate Class
 - Signal Processing for Communications (2016Fall, 2017Fall, 2018Fall) 
 - Modern Signal Processing Theory and Technology (2018Spring)
 
-2. Undergraduate Class
+UC. Undergraduate Class
 - Analogy Circuits (2017Fall, 2018Fall) 
 - Digital Signal Processing (2018Spring, 2018Fall)
 - Signal Detection and Estimation (2018Fall)
@@ -36,7 +36,7 @@
 "A good theory (and information theory is one of the best) allows for simple analysis of simplified models. It also provides structural principles that allow insights from these simple models to be applied to more complex and realistic models..."     --- Robert G. Gallager
 
 ### Book Chapter
-1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobile Edge Computing Systems,” in Chapter 14 of *Wireless Information and Power Transfer: Theory and Practice*, Wiley-IEEE Press, Dec. 2018. (ISBN: 978-1-119-47686-3)
+BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobile Edge Computing Systems,” in Chapter 14 of *Wireless Information and Power Transfer: Theory and Practice*, Wiley-IEEE Press, Dec. 2018. (ISBN: 978-1-119-47686-3)
 
 ### Journal Publications
 **IEEE Copyright Information:** Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
