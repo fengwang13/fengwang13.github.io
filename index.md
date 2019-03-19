@@ -41,7 +41,7 @@ BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobi
 ### Journal Publications
 **IEEE Copyright Information:** Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
 
-J9. **Feng Wang**, Jie Xu, and Zhiguo Ding, “Multi-antenna NOMA for computation offloading in multiuser mobile edge computing systems,” to appear in *IEEE Transactions on Communications*, 2018. 
+J9. **Feng Wang**, Jie Xu, and Zhiguo Ding, “Multi-antenna NOMA for computation offloading in multiuser mobile edge computing systems,” to appear in *IEEE Transactions on Communications*, vol. 67, no. 3, pp. 2450--2463,Mar. 2019. 
 
 J8. Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation
 for energy-efficient mobile edge computing,” To appear in *IEEE Internet of Things Journal*, Oct. 2018. 
