@@ -48,7 +48,7 @@ for energy-efficient mobile edge computing,” To appear in *IEEE Internet of Th
 
 J7. **Feng Wang**, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 9, pp. 5929--5944, Sep. 2018. 
 
-J6. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 3, pp. 4798-4810, Mar. 2018.
+J6. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 3, pp. 4798-4810, Mar. 2018. (ESI Highly Cited Paper)
 
 J5. **Feng Wang**, Tao Peng, and Yongwei Huang, “Decentralized robust transceiver designs for MISO SWIPT interference channel,” *IEEE Access*, vol. 6, pp. 4537-4549, Feb. 2018
 
