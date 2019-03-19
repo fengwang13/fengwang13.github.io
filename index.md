@@ -32,8 +32,6 @@ UC. Undergraduate Class
 - Digital Signal Processing (2018Spring, 2018Fall)
 - Signal Detection and Estimation (2018Fall)
 
-### Quotes
-"A good theory (and information theory is one of the best) allows for simple analysis of simplified models. It also provides structural principles that allow insights from these simple models to be applied to more complex and realistic models..."     --- Robert G. Gallager
 
 ### Book Chapter
 BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobile Edge Computing Systems,” in Chapter 14 of *Wireless Information and Power Transfer: Theory and Practice*, Wiley-IEEE Press, Dec. 2018. (ISBN: 978-1-119-47686-3)
