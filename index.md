@@ -1,6 +1,6 @@
 ## Welcome to Dr. Feng Wang's Homepage
 
-**Feng Wang**, Assistant Professor, School of Information Engineering, Guangdong University of Technology
+**Feng Wang**, Lecturer, School of Information Engineering, Guangdong University of Technology
 
 - Email: fengwang13@gdut.edu.cn; fengwang13@fudan.edu.cn; fengwang.nl@gmail.com 
 
@@ -12,7 +12,7 @@
 - Bachelor of Engineering in Automation, Nanjing University of Posts and Telecommunications, China (Jun. 2009)
 
 ### Professional Experience ###
-- Assistant Professor, Guangdong University of Technology, Guangzhou (Jun. 2016 - present)
+- Lecturer, Guangdong University of Technology, Guangzhou (Jul. 2016 - present)
 - Post-Doctoral Research Fellow, Singapore University of Technology and Design (Jan. 2017 - Sep. 2017)
 - Rearch Fellow, SHAPR Laboroty of China, Shanghai (Jul. 2012 - Aug. 2013)
 
@@ -59,6 +59,8 @@ J2. **Feng Wang**, Yongwei Huang, Xin Wang, and Yu Zhu, “Robust beamforming de
 J1. **Feng Wang** and Yu Zhu, “On the low complexity of S-SCH detection for 3GPP LTE downlinks,” *Journal of Fudan University (Nature Science version)*, vol. 50, no. 4, pp. 492-500, Aug. 2011. (in Chinese)
 
 ### Conference Papers
+C13. **Feng Wang**, Hong Xing, Jie Xu, "Optimal resource allocation for wireless powered mobile edge computing with dynamic task arrivals,” in *Proc. IEEE ICC*, Shanghai, China, May 2019, pp. 1-7.
+
 C12.	Dixiao Wu, **Feng Wang**, Xiaowen Cao, and Jie Xu, "Wireless Powered User Cooperative Computation in Mobile Edge Computing Systems," in *Proc. IEEE GLOBECOM Workshop on Wireless Energy Harvesting Communication Networks*, Abu Dhabi, United Arab Emirates, Dec. 2018, pp. 1-7.
 
 C11. Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation for mobile edge computing,” in *Proc. WiOpt*, Shanghai, China, May 2018, pp. 1-6.
@@ -81,7 +83,7 @@ C3.	**Feng Wang**, Xin Wang, Zhaoxi Fang, and Rui Zhang, “Optimal beamforming 
 
 C2.	**Feng Wang** and Yu Zhu, “An efficient CFO estimation algorithm for the downlink of 3GPP-LTE,” in *Proc. WCSP*, Nanjing, China, Nov. 2011, pp. 1-6. 
 
-C1.	**Feng Wang**, Yu Zhu, and Zongxin Wang, “A low complexity scheme for S-SCH detection in 3GPP LTE downlink system,” in *Proc. Global Mobile Congress*, Shanghai, China, Oct. 2010, pp. 1-6.
+C1.	**Feng Wang**, Yu Zhu, and Zongxin Wang, “A low complexity scheme for S-SCH detection in 3GPP LTE downlink system,” in *Proc. Global Mobile Congress*, Shanghai, China, Oct. 2010, pp. 1-6.  
 
 ### Patents
 P9.	**Feng Wang** and Renmao Liu. PDCCH repetition for MTC UEs in enhanced coverage mode. Chinese Patent, Appl. NO: 201410037511.0, PPNO: CN10481140A, 2015-07-29.
