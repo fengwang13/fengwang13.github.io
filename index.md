@@ -17,20 +17,20 @@
 - Rearch Fellow, SHAPR Laboroty of China, Shanghai (Jul. 2012 - Aug. 2013)
 
 ### Research Interests
-- Signal Processing for Wireless Communications
-- Energy Harvesting Wireless Communications
+- Signal Processing and Learning for Wireless Communications
+- Wireless Information and Energy Transfer
 - Edge Computing and Learning
 - Convex Opitmization
 
 ### Teaching Courses
 GC. Graduate Class
 - Signal Processing for Communications (2016Fall, 2017Fall, 2018Fall) 
-- Modern Signal Processing Theory and Technology (2018Spring)
+- Modern Signal Processing Theory and Technology (2018Spring，2019Spring)
 
 UC. Undergraduate Class
 - Analogy Circuits (2017Fall, 2018Fall) 
 - Digital Signal Processing (2018Spring, 2018Fall)
-- Signal Detection and Estimation (2018Fall)
+- Signal Detection and Estimation (2018Fall,2019Fall)
 
 
 ### Book Chapter
@@ -39,14 +39,14 @@ BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobi
 ### Journal Publications
 **IEEE Copyright Information:** Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
 
-J9. **Feng Wang**, Jie Xu, and Zhiguo Ding, “Multi-antenna NOMA for computation offloading in multiuser mobile edge computing systems,”  *IEEE Transactions on Communications*, vol. 67, no. 3, pp. 2450--2463, Mar. 2019. 
+J9. Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation
+for energy-efficient mobile edge computing,” *IEEE Internet of Things Journal*, vol. 6, no. 3, pp. 4188--4200, Jun. 2019. 
 
-J8. Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation
-for energy-efficient mobile edge computing,” To appear in *IEEE Internet of Things Journal*, Oct. 2018. 
+J8. **Feng Wang**, Jie Xu, and Zhiguo Ding, “Multi-antenna NOMA for computation offloading in multiuser mobile edge computing systems,”  *IEEE Transactions on Communications*, vol. 67, no. 3, pp. 2450--2463, Mar. 2019. 
 
 J7. **Feng Wang**, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 9, pp. 5929--5944, Sep. 2018. 
 
-J6. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 3, pp. 4798-4810, Mar. 2018. (**ESI Highly Cited Paper, since from March 2019**)
+J6. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 3, pp. 4798-4810, Mar. 2018. (**ESI Highly Cited Paper, Hot paper since from March 2019**)
 
 J5. **Feng Wang**, Tao Peng, and Yongwei Huang, “Decentralized robust transceiver designs for MISO SWIPT interference channel,” *IEEE Access*, vol. 6, pp. 4537-4549, Feb. 2018
 
