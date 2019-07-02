@@ -30,7 +30,7 @@ GC. Graduate Class
 UC. Undergraduate Class
 - Analogy Circuits (2017Fall, 2018Fall) 
 - Digital Signal Processing (2018Spring, 2018Fall)
-- Signal Detection and Estimation (2018Fall,2019Fall)
+- Signal Detection and Estimation (2018Fall,2019Spring)
 
 
 ### Book Chapter
