@@ -40,18 +40,16 @@ BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobi
 ### Journal Publications
 **IEEE Copyright Information:** Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
 
-9). Qijie Lin, **Feng Wang**, and Jie Xu, ``Optimal task offloading scheduling for energy efficient D2D cooperative computing,'' *IEEE Communication Letters*, to appear in 2019.
+8). Qijie Lin, **Feng Wang**, and Jie Xu, ``Optimal task offloading scheduling for energy efficient D2D cooperative computing,'' *IEEE Communication Letters*, to appear in 2019.
 
-8). Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation
+7). Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation
 for energy-efficient mobile edge computing,” *IEEE Internet of Things Journal*, vol. 6, no. 3, pp. 4188--4200, Jun. 2019. 
 
-7). **Feng Wang**, Jie Xu, and Zhiguo Ding, “Multi-antenna NOMA for computation offloading in multiuser mobile edge computing systems,”  *IEEE Transactions on Communications*, vol. 67, no. 3, pp. 2450--2463, Mar. 2019. 
+6). **Feng Wang**, Jie Xu, and Zhiguo Ding, “Multi-antenna NOMA for computation offloading in multiuser mobile edge computing systems,”  *IEEE Transactions on Communications*, vol. 67, no. 3, pp. 2450--2463, Mar. 2019. 
 
-6). **Feng Wang**, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 9, pp. 5929--5944, Sep. 2018. 
+5). **Feng Wang**, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 9, pp. 5929--5944, Sep. 2018. 
 
-5). **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 3, pp. 4798-4810, Mar. 2018. (**ESI Highly Cited Paper, Hot paper since from March 2019**)
-
-4). **Feng Wang**, Tao Peng, and Yongwei Huang, “Decentralized robust transceiver designs for MISO SWIPT interference channel,” *IEEE Access*, vol. 6, pp. 4537-4549, Feb. 2018
+4). **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Joint offloading and computing optimization in wireless powered mobile-edge computing systems,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 3, pp. 4798-4810, Mar. 2018. (**ESI Highly Cited Paper, Hot paper since from March 2019**)
 
 3). **Feng Wang**, Chongbin Xu, Yongwei Huang, Xin Wang, and Xiqi Gao, “REEL-BF design: Achieving the SDP bound for downlink beamforming with arbitrary shaping constraints,” *IEEE Transactions on Signal Processing*, vol. 65, no. 10, pp. 2672-2685, May 2017.
 
