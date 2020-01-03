@@ -4,7 +4,7 @@
 
 - Email: fengwang13@gdut.edu.cn; fengwang.nl@gmail.com; fengwang13@fudan.edu.cn; 
 
-- Office: Room 701, No. 1 Engineering Building, No. 100 Road Waihuan, Guangzhou 510006, China
+- Office: Room 602, No. 1 Engineering Building, No. 100 Road Waihuan, Guangzhou 510006, China
 - Google Scholar Link:  https://scholar.google.com/citations?user=s8RhFgwAAAAJ
 
 ### Eduaction ####
