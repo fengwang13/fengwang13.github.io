@@ -1,8 +1,8 @@
 ## Welcome to Dr. Feng Wang's Homepage
 
-**Feng Wang**, Lecturer, School of Information Engineering, Guangdong University of Technology
+**Feng Wang**, Associate Professor, School of Information Engineering, Guangdong University of Technology
 
-- Email: fengwang13@gdut.edu.cn; fengwang13@fudan.edu.cn; fengwang.nl@gmail.com 
+- Email: fengwang13@gdut.edu.cn; fengwang.nl@gmail.com; fengwang13@fudan.edu.cn; 
 
 - Office: Room 701, No. 1 Engineering Building, No. 100 Road Waihuan, Guangzhou 510006, China
 - Google Scholar Link:  https://scholar.google.com/citations?user=s8RhFgwAAAAJ
@@ -39,6 +39,8 @@ BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobi
 
 ### Journal Publications
 **IEEE Copyright Information:** Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
+
+9). Dixiao Wu, **Feng Wang**, Xiaowen Cao, and Jie Xu, ``Joint communication and computation optimization for wireless powered mobile edge computing with D2D offloading,'' *Journal of Communications and Information Networks*, vol. 4, no. 4, pp. 23-37, Dec. 2019.
 
 8). Qijie Lin, **Feng Wang**, and Jie Xu, ``Optimal task offloading scheduling for energy efficient D2D cooperative computing,'' *IEEE Communication Letters*, vol. 23, no. 10, pp. 1816--1820, Oct. 2019.
 
