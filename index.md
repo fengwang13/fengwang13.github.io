@@ -13,9 +13,9 @@
 - B.E.,   Nanjing University of Posts and Telecommunications, China (2009)
 
 ### Professional Experience ###
-- Lecturer, Associate Professor, Guangdong University of Technology, Guangzhou (Jul. 2016 - present)
-- Post-Doctoral Research Fellow, Singapore University of Technology and Design (Jan. 2017 - Sep. 2017)
-- Rearch Fellow, SHAPR Laboroty of China, Shanghai (Jul. 2012 - Aug. 2013)
+- Lecturer, Associate Professor, Guangdong University of Technology, Guangzhou (Since Jul. 2016)
+- Post-Doctoral Research Fellow, Singapore University of Technology and Design (2017)
+- Research Fellow, SHAPR Laboroty of China, Shanghai (Jul. 2012 - Aug. 2013)
 
 ### Research Interests
 - Signal Processing and Learning for Wireless Communications
