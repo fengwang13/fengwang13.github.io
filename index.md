@@ -5,7 +5,8 @@
 - Email: fengwang13@gdut.edu.cn; fengwang.nl@gmail.com; fengwang13@fudan.edu.cn; 
 
 - Office: Room 602, No. 1 Engineering Building, No. 100 Road Waihuan, Guangzhou 510006, China
-- Google Scholar Link:  https://scholar.google.com/citations?user=s8RhFgwAAAAJ
+- Google Scholar Link: 
+  https://scholar.google.com/citations?user=s8RhFgwAAAAJ
 
 ### Eduaction ####
 - Ph.D.,  Fudan University, China (2016)
@@ -13,7 +14,7 @@
 - B.E.,   Nanjing University of Posts and Telecommunications, China (2009)
 
 ### Professional Experience ###
-- Lecturer, Guangdong University of Technology, Guangzhou (2016-2019)
+- Lecturer, Associated Professor, Guangdong University of Technology, Guangzhou (2016--)
 - Post-Doctoral Research Fellow, Singapore University of Technology and Design (2017)
 - Research Fellow, SHAPR Laboroty of China, Shanghai (Jul. 2012 - Aug. 2013)
 
@@ -27,6 +28,7 @@
 GC. Graduate Class
 - Signal Processing for Communications (2016Fall, 2017Fall, 2018Fall) 
 - Modern Signal Processing Theory and Technology (2018Spring，2019Spring)
+- Convex Optimization (2020Spring)
 
 UC. Undergraduate Class
 - Analogy Circuits (2017Fall, 2018Fall) 
@@ -40,6 +42,10 @@ BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobi
 ### Journal Publications
 **IEEE Copyright Information:** Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
 
+11). **Feng Wang**, Hong Xing, and Jie Xu, ``Real-time resource allocation for wireless powered multiuser mobile edge computing with energy and task causality,'' to appear in *IEEE Transactions on Communications*, 2020.
+
+10). **Feng Wang**, Jie Xu, and Shuguang Cui, ``Optimal energy allocation and task offloading policy for wireless powered mobile edge computing systems,'' *IEEE Transactions on Wireless Communications*, vol. 19, no. 4, pp. 2443-2459, Apr. 2020.
+
 9). Dixiao Wu, **Feng Wang**, Xiaowen Cao, and Jie Xu, ``Joint communication and computation optimization for wireless powered mobile edge computing with D2D offloading,'' *Journal of Communications and Information Networks*, vol. 4, no. 4, pp. 23-37, Dec. 2019.
 
 8). Qijie Lin, **Feng Wang**, and Jie Xu, ``Optimal task offloading scheduling for energy efficient D2D cooperative computing,'' *IEEE Communication Letters*, vol. 23, no. 10, pp. 1816--1820, Oct. 2019.
@@ -47,7 +53,8 @@ BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobi
 7). Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation
 for energy-efficient mobile edge computing,” *IEEE Internet of Things Journal*, vol. 6, no. 3, pp. 4188--4200, Jun. 2019. 
 
-6). **Feng Wang**, Jie Xu, and Zhiguo Ding, “Multi-antenna NOMA for computation offloading in multiuser mobile edge computing systems,”  *IEEE Transactions on Communications*, vol. 67, no. 3, pp. 2450--2463, Mar. 2019. 
+6). **Feng Wang**, Jie Xu, and Zhiguo Ding, “Multi-antenna NOMA for computation offloading in multiuser mobile edge computing systems,”  *IEEE Transactions on Communications*, vol. 67, no. 3, pp. 2450--2463, Mar. 2019. (**ESI Highly Cited Paper, Hot paper since from May 2020**)
+
 
 5). **Feng Wang**, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 9, pp. 5929--5944, Sep. 2018. 
 
