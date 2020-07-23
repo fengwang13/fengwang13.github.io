@@ -54,7 +54,7 @@ BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobi
 7). Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation
 for energy-efficient mobile edge computing,” *IEEE Internet of Things Journal*, vol. 6, no. 3, pp. 4188--4200, Jun. 2019. 
 
-6). **Feng Wang**, Jie Xu, and Zhiguo Ding, “Multi-antenna NOMA for computation offloading in multiuser mobile edge computing systems,”  *IEEE Transactions on Communications*, vol. 67, no. 3, pp. 2450--2463, Mar. 2019. (**ESI Highly Cited Paper, Hot paper since from May 2020**)
+6). **Feng Wang**, Jie Xu, and Zhiguo Ding, “Multi-antenna NOMA for computation offloading in multiuser mobile edge computing systems,”  *IEEE Transactions on Communications*, vol. 67, no. 3, pp. 2450--2463, Mar. 2019. (**ESI Highly Cited Paper since from May 2020**)
 
 
 5). **Feng Wang**, Lingjie Duan, and Jianwei Niu, “Optimal pricing of user-initiated data-plan sharing in a roaming market,” *IEEE Transactions on Wireless Communications*, vol. 17, no. 9, pp. 5929--5944, Sep. 2018. 
