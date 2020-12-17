@@ -29,12 +29,12 @@
 GC. Graduate Course
 - Signal Processing for Communications (2016Fall, 2017Fall, 2018Fall, 2019Fall, 2020Spring [Online])   
 - Modern Signal Processing Theory and Technology (2018Spring，2019Spring, 2020Spring [Online])
-- Convex Optimization (2020Spring[Online], 2020Fall) 
+- Convex Optimization (2020Spring [Online], 2020Fall) 
 
 UC. Undergraduate Course
 - Analogy Circuits (2017Fall, 2018Fall,2019Fall, 2020Fall) 
 - Digital Signal Processing (2018Spring, 2018Fall, 2020Fall)
-- Signal Detection and Estimation (2018Fall,2019Spring,2020Spring[Online])
+- Signal Detection and Estimation (2018Fall, 2019Spring, 2020Spring [Online])
 
 
 ### Book Chapter
@@ -49,7 +49,7 @@ BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobi
 
 9). Dixiao Wu, **Feng Wang**, Xiaowen Cao, and Jie Xu, ``Joint communication and computation optimization for wireless powered mobile edge computing with D2D offloading,'' *Journal of Communications and Information Networks*, vol. 4, no. 4, pp. 23-37, Dec. 2019.
 
-8). Qijie Lin, **Feng Wang**, and Jie Xu, ``Optimal task offloading scheduling for energy efficient D2D cooperative computing,'' *IEEE Communication Letters*, vol. 23, no. 10, pp. 1816--1820, Oct. 2019.
+8). Qijie Lin, **Feng Wang**, and Jie Xu, "Optimal task offloading scheduling for energy efficient D2D cooperative computing," *IEEE Communication Letters*, vol. 23, no. 10, pp. 1816--1820, Oct. 2019.
 
 7). Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation for energy-efficient mobile edge computing,” *IEEE Internet of Things Journal*, vol. 6, no. 3, pp. 4188--4200, Jun. 2019. 
 
@@ -68,12 +68,12 @@ BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobi
 0). **Feng Wang** and Yu Zhu, “On the low complexity of S-SCH detection for 3GPP LTE downlinks,” *Journal of Fudan University (Nature Science version)*, vol. 50, no. 4, pp. 492-500, Aug. 2011. (in Chinese)
 
 ### Conference Papers
-14). **Feng Wang** and Jie Xu, "Optimized Amplify-and-Forward Relaying for Hierarchical Over-the-Air Computation,'' in *Proc. IEEE GLOBECOM Workshop on Edge Learning over 5G Networks and Beyond*, Taipei, China, Dec. 2020, pp. 1-6. (Virtual Presentation Video is available at: 
+14). **Feng Wang** and Jie Xu, "Optimized amplify-and-forward relaying for hierarchical over-the-air computation,'' in *Proc. IEEE GLOBECOM Workshop on Edge Learning over 5G Networks and Beyond*, Taipei, China, Dec. 2020, pp. 1-6. (Virtual Presentation Video is available at: 
 https://drive.google.com/file/d/17YYqUEnMbUP_Fwy-37Ydfnlo22pW14ox/view?usp=sharing )
 
 13). **Feng Wang**, Hong Xing, and Jie Xu, "Optimal resource allocation for wireless powered mobile edge computing with dynamic task arrivals,” in *Proc. IEEE ICC*, Shanghai, China, May 2019, pp. 1-7.
 
-12).	Dixiao Wu, **Feng Wang**, Xiaowen Cao, and Jie Xu, "Wireless Powered User Cooperative Computation in Mobile Edge Computing Systems," in *Proc. IEEE GLOBECOM Workshop on Wireless Energy Harvesting Communication Networks*, Abu Dhabi, United Arab Emirates, Dec. 2018, pp. 1-7.
+12).	Dixiao Wu, **Feng Wang**, Xiaowen Cao, and Jie Xu, "Wireless powered user cooperative computation in mobile edge computing systems," in *Proc. IEEE GLOBECOM Workshop on Wireless Energy Harvesting Communication Networks*, Abu Dhabi, United Arab Emirates, Dec. 2018, pp. 1-7.
 
 11). Xiaowen Cao, **Feng Wang**, Jie Xu, Rui Zhang, and Shuguang Cui, “Joint computation and communication cooperation for mobile edge computing,” in *Proc. WiOpt*, Shanghai, China, May 2018, pp. 1-6.
 
