@@ -25,20 +25,20 @@
 - Mobile Edge Computing and Learning
 - Convex Opitmization and Its Applications
 
-### Teaching Courses
-GC. Graduate Class
-- Signal Processing for Communications (2016Fall, 2017Fall, 2018Fall, 2019Fall, 2020Spring) 
-- Modern Signal Processing Theory and Technology (2018Spring，2019Spring, 2020Spring)
-- Convex Optimization (2020Spring, 2020Fall)
+### Teaching Course
+GC. Graduate Course
+- Signal Processing for Communications (2016Fall, 2017Fall, 2018Fall, 2019Fall, 2020Spring [Online])   
+- Modern Signal Processing Theory and Technology (2018Spring，2019Spring, 2020Spring [Online])
+- Convex Optimization (2020Spring[Online], 2020Fall) 
 
-UC. Undergraduate Class
+UC. Undergraduate Course
 - Analogy Circuits (2017Fall, 2018Fall,2019Fall, 2020Fall) 
 - Digital Signal Processing (2018Spring, 2018Fall, 2020Fall)
-- Signal Detection and Estimation (2018Fall,2019Spring,2020Spring)
+- Signal Detection and Estimation (2018Fall,2019Spring,2020Spring[Online])
 
 
 ### Book Chapter
-BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobile Edge Computing Systems,” in Chapter 14 of *Wireless Information and Power Transfer: Theory and Practice*, Wiley-IEEE Press, Dec. 2018. (ISBN: 978-1-119-47686-3)
+BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobile Edge Computing Systems,” in Chapter 14 of *Wireless Information and Power Transfer: Theory and Practice*, Wiley-IEEE Press, Dec. 2018. (ISBN: 978-1-119-47686-3) (Available: https://onlinelibrary.wiley.com/doi/10.1002/9781119476863.ch14 )
 
 ### Journal Publications
 **IEEE Copyright Information:** Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
