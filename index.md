@@ -2,7 +2,7 @@
 
 **Feng Wang**, Associate Professor, School of Information Engineering, Guangdong University of Technology
 
-- Email: fengwang13@gdut.edu.cn; fengwang.nl@gmail.com; fengwang13@fudan.edu.cn; 
+- Email: fengwang13@gdut.edu.cn; fengwang.nl@gmail.com 
 
 - Office: Room 602, No. 1 Engineering Building, No. 100 Road Waihuan, Guangzhou 510006, China
 - Google Scholar Link: 
