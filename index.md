@@ -43,7 +43,7 @@ BC1. **Feng Wang**, Jie Xu, Xin Wang, and Shuguang Cui, “Wireless-Powered Mobi
 ### Journal Publications
 **IEEE Copyright Information:** Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
 
-11). **Feng Wang**, Hong Xing, and Jie Xu, ``Real-time resource allocation for wireless powered multiuser mobile edge computing with energy and task causality,'' to appear in *IEEE Transactions on Communications*, 2020.
+11). **Feng Wang**, Hong Xing, and Jie Xu, ``Real-time resource allocation for wireless powered multiuser mobile edge computing with energy and task causality,'' to appear in *IEEE Transactions on Communications*, vol. 68, no. 11, pp.  7140-7155, Nov. 2020.
 
 10). **Feng Wang**, Jie Xu, and Shuguang Cui, ``Optimal energy allocation and task offloading policy for wireless powered mobile edge computing systems,'' *IEEE Transactions on Wireless Communications*, vol. 19, no. 4, pp. 2443-2459, Apr. 2020.
 
