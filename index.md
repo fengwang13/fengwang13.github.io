@@ -8,9 +8,9 @@
 - Google Scholar Link: https://scholar.google.com/citations?user=s8RhFgwAAAAJ
 
 ### Eduaction ####
-- Ph.D.,  Fudan University, China (2016)
-- M.Sc.,  Fudan University, China (2012)
-- B.E.,   Nanjing University of Posts and Telecommunications (NUPT), China (2009)
+- Ph.D.,  Fudan University, Shanghai, China (2016)
+- M.Sc.,  Fudan University, Shanghai, China (2012)
+- B.E.,   Nanjing University of Posts and Telecommunications (NUPT), Nanjing, China (2009)
 
 ### Professional Experience ###
 - Lecturer, Associated Professor, Guangdong University of Technology (GDUT), Guangzhou, China (Since 2016--)
