@@ -5,14 +5,12 @@
 - Email: fengwang13@gdut.edu.cn; fengwang.nl@gmail.com 
 
 - Office: Room 602, No. 1 Engineering Building, No. 100 Road Waihuan, Guangzhou 510006, China
-- Google Scholar Link: 
-
-  https://scholar.google.com/citations?user=s8RhFgwAAAAJ
+- Google Scholar Link: https://scholar.google.com/citations?user=s8RhFgwAAAAJ
 
 ### Eduaction ####
 - Ph.D.,  Fudan University, China (2016)
 - M.Sc.,  Fudan University, China (2012)
-- B.E.,   Nanjing University of Posts and Telecommunications, China (2009)
+- B.E.,   Nanjing University of Posts and Telecommunications (NUPT), China (2009)
 
 ### Professional Experience ###
 - Lecturer, Associated Professor, Guangdong University of Technology (GDUT), Guangzhou, China (Since 2016--)
